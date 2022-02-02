@@ -1,0 +1,7 @@
+C:\Users\glcac\Documents\C#\consultahttpClient\consultahttpClient\obj\Debug\net5.0\consultahttpClient.csproj.AssemblyReference.cache
+C:\Users\glcac\Documents\C#\consultahttpClient\consultahttpClient\obj\Debug\net5.0\consultahttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glcac\Documents\C#\consultahttpClient\consultahttpClient\obj\Debug\net5.0\consultahttpClient.AssemblyInfoInputs.cache
+C:\Users\glcac\Documents\C#\consultahttpClient\consultahttpClient\obj\Debug\net5.0\consultahttpClient.AssemblyInfo.cs
+C:\Users\glcac\Documents\C#\consultahttpClient\consultahttpClient\obj\Debug\net5.0\consultahttpClient.csproj.CoreCompileInputs.cache
+C:\Users\glcac\Documents\C#\consultahttpClient\consultahttpClient\obj\Debug\net5.0\consultahttpClient.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\glcac\Documents\C#\consultahttpClient\consultahttpClient\obj\Debug\net5.0\consultahttpClient.MvcApplicationPartsAssemblyInfo.cache
